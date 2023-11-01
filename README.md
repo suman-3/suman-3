@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @suman-3
 - 👀 I’m a Full Stack Web Developer..
-- 🌱 I’m currently learning  B.Tech in Computer Science Engineernig...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 suman-3/suman-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
