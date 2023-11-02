@@ -27,7 +27,7 @@ I'm currently available for freelance work. If you have a web project in mind or
 
 🏆 **Achievements:**
 - Completed multiple web development courses on platforms like Coursera and Udemy.
-- Created our college SPIE OPTICA UEMK club official site [SPIE OPTICA UEMK Official Website](https://spie-optica-uemk.vercel.app/).
+- Created our college SPIE OPTICA UEMK club official site [SPIE OPTICA UEMK ](https://spie-optica-uemk.vercel.app/).
 
 Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or collaboration ideas!
 
