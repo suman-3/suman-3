@@ -29,7 +29,5 @@ I'm currently available for freelance work. If you have a web project in mind or
 - Completed multiple web development courses on platforms like Coursera and Udemy.
 - Contributed to open source projects, including [SPIE OPTICA UEMK Official Website](https://spie-optica-uemk.vercel.app/).
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
-
 Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or collaboration ideas!
 
