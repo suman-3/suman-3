@@ -15,7 +15,7 @@ I'm currently available for freelance work. If you have a web project in mind or
 
 🌱 **Recent Projects:**
 - [Portfolio Website](https://suman-mondal-portfolio.vercel.app/) - Built with Next and showcases my skills and projects.
-- [Snapgram SocialMedia App](https://www.example.com) - A full-fledged online store powered by Next.js and Convex.
+- [Snapgram SocialMedia App](https://snapgram-social.vercel.app/) - A full-fledged online store powered by Next.js and Convex.
 
 💌 **Let's Connect:**
 - [Portfolio Website](https://suman-mondal-portfolio.vercel.app/)
