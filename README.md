@@ -1,6 +1,3 @@
-Certainly! Here's a sample GitHub bio for a full stack web developer:
-
----
 
 # Suman Mondal
 ## Full Stack Web Developer | Open for Freelancing | React & Next.js Expert
