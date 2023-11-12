@@ -14,7 +14,7 @@
 I'm currently available for freelance work. If you have a web project in mind or need assistance with your existing one, feel free to reach out!
 
 🌱 **Recent Projects:**
-- [Twitter clone project](https://twitter-delta-blush.vercel.app/) - TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023).
+- [Jotion project](https://jotion-note.vercel.app/) - NOTION clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023).
 - [Snapgram SocialMedia App](https://snapgram-social.vercel.app/) - A full-fledged online store powered by Next.js and Convex.
 
 💌 **Let's Connect:**
