@@ -2,7 +2,7 @@
 # Suman Mondal
 ## Full Stack Web Developer | Open for Freelancing | React & Next.js Expert
 
-🚀 Welcome to my GitHub! I'm John, a passionate full stack web developer with expertise in React and Next.js. I love building interactive and dynamic web applications that leave a lasting impression.
+🚀 Welcome to my GitHub! I'm Suman, a passionate full stack web developer with expertise in React and Next.js. I love building interactive and dynamic web applications that leave a lasting impression.
 
 🔧 **Skills:**
 - Frontend: HTML, CSS, JavaScript (ES6+), React, Redux, Next.js
