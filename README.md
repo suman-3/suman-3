@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=suman-3&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Suman Mondal
 ## Full Stack Web Developer | Open for Freelancing | React & Next.js Expert
