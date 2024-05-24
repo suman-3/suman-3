@@ -32,3 +32,6 @@ I'm currently available for freelance work. If you have a web project in mind or
 
 Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or collaboration ideas!
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-3&theme=dark" alt="xcriminal1" /></p>
+
+
