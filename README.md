@@ -11,9 +11,6 @@
 
 
 
-
-🚀 Welcome to my GitHub! I'm Suman, a passionate full stack web developer with expertise in React and Next.js. I love building interactive and dynamic web applications that leave a lasting impression.
-
 🔧 **Skills:**
 - Frontend: HTML, CSS, JavaScript (ES6+), React, Redux, Next.js
 - Backend: Node.js, Express, MongoDB, PostgreSQL
