@@ -37,6 +37,12 @@ I'm currently available for freelance work. If you have a web project in mind or
 - Created our college SPIE OPTICA UEMK club official site [SPIE OPTICA UEMK ](https://spie-optica-uemk.vercel.app/).
 
 Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or collaboration ideas!
+
+
+<img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-3&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-3&theme=dark" alt="suman" /></p>
+  
+
 
 
